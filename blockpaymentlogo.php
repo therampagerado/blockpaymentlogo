@@ -40,7 +40,7 @@ class BlockPaymentLogo extends Module
 		$this->bootstrap = true;
 		parent::__construct();
 
-		$this->displayName = $this->l('Payment logos block');
+		$this->displayName = $this->l('Block Payment Logos');
 		$this->description = $this->l('Adds a block which displays all of your payment logos.');
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}

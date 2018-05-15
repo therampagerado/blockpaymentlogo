@@ -1,4 +1,4 @@
-module_name: Block Payment Logo
+module_name: Block Payment Logos
 compatible_versions: 1.0.0+
 author: thirty bees
 category: front office
@@ -6,7 +6,7 @@ tags:
   - payment
   - marketing
   - advertising
-description_short: The block payment logos allows you to add payment logos to your product pagess.
+description_short: The block payment logos allows you to add payment logos to your product pages.
 description: description.md
 images:
   - image-1.png
