@@ -1,10 +1,10 @@
 # Block Payment Logos
 
-The block payment logos allows you to add payment logos to your product pages.
+The block payment logos allows you to add payment logos to your left/right column or your footer.
 
 ## Description
 
-The block payment logo module allows you to add payment logos to your product page to let customer know what payment forms you accept.
+The block payment logo module allows you to add payment logos to your left/right column or your footer to let customer know what payment forms you accept. You can edit your logos by modifying the .tpl file according to your needs.
 
 ## License
 
